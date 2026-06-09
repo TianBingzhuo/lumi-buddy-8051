@@ -1,0 +1,11 @@
+LUMI.BUDDY 8051
+Copyright 2026 LUMI.BUDDY contributors
+
+This package contains an original course project implementation for an
+8051/STC89C52-compatible board and LCD12864 display.
+
+Anthropic Claude Desktop Buddy is referenced only as design inspiration.
+No Claude Desktop Buddy source code or assets are included.
+
+Course handout PDFs, private notes, backups, and personal evidence files
+are intentionally excluded from this package.
