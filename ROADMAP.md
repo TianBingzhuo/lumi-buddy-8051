@@ -1,6 +1,6 @@
 # Roadmap
 
-`LUMI.BUDDY 8051` starts as a course-ready LCD12864 experiment, but the design is intentionally shaped like a small open-source hardware/software project. This roadmap keeps the current 8051 version honest while leaving a clear path toward a modern desktop status buddy.
+`LUMI.BUDDY 8051` started life as a course-ready LCD12864 experiment, but I shaped the design on purpose like a small open-source hardware/software project — mostly so it wouldn't feel throwaway after the semester ended. This roadmap keeps the current 8051 version honest about what it actually does, while leaving a clear path toward becoming a modern desktop status buddy.
 
 ## v0.1 Course Demo - Current
 
